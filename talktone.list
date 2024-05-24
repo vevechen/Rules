@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,talkatone.com
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tktn.at
 DOMAIN-SUFFIX,tktn.be
+DOMAIN-SUFFIX,inmobicdn.net
+DOMAIN-SUFFIX,smadex.com
 
 IP-CIDR,50.117.27.0/24,no-resolve
 IP-CIDR,63.251.124.0/24,no-resolve
