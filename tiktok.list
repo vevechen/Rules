@@ -1,0 +1,38 @@
+# NAME: TikTok
+# AUTHOR: blackmatrix7
+# Modified: vevechen
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:16:10
+# DOMAIN: 3
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 21
+# USER-AGENT: 1
+# TOTAL: 27
+[Rule]
+DOMAIN,lf16-effectcdn.byteeffecttos-g.com,PROXY
+DOMAIN,lf16-pkgcdn.pitaya-clientai.com,PROXY
+DOMAIN,p16-tiktokcdn-com.akamaized.net,PROXY
+DOMAIN-SUFFIX,bytedapm.com,PROXY
+DOMAIN-SUFFIX,bytegecko-i18n.com,PROXY
+DOMAIN-SUFFIX,byteoversea.com,PROXY
+DOMAIN-SUFFIX,capcut.com,PROXY
+DOMAIN-SUFFIX,ibytedtos.com,PROXY
+DOMAIN-SUFFIX,ibyteimg.com,PROXY
+DOMAIN-SUFFIX,ipstatp.com,PROXY
+DOMAIN-SUFFIX,isnssdk.com,PROXY
+DOMAIN-SUFFIX,muscdn.com,PROXY
+DOMAIN-SUFFIX,musical.ly,PROXY
+DOMAIN-SUFFIX,sgpstatp.com,PROXY
+DOMAIN-SUFFIX,snssdk.com,PROXY
+DOMAIN-SUFFIX,tik-tokapi.com,PROXY
+DOMAIN-SUFFIX,tiktok.com,PROXY
+DOMAIN-SUFFIX,tiktokcdn-us.com,PROXY
+DOMAIN-SUFFIX,tiktokcdn.com,PROXY
+DOMAIN-SUFFIX,tiktokd.net,PROXY
+DOMAIN-SUFFIX,tiktokd.org,PROXY
+DOMAIN-SUFFIX,tiktokmusic.app,PROXY
+DOMAIN-SUFFIX,tiktokv.com,PROXY
+DOMAIN-SUFFIX,tiktokv.us,PROXY
+DOMAIN-KEYWORD,musical.ly,PROXY
+DOMAIN-KEYWORD,tiktok,PROXY
+USER-AGENT,TikTok*
