@@ -1,0 +1,18 @@
+# NAME: AppleAI
+# AUTHOR: vevechen
+# REPO: https://github.com/vevechen
+# UPDATED: 2025-11-05
+
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,gateway.fe2.apple-dns.net
+DOMAIN,gateway.icloud.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,seed.siri.apple.com
+DOMAIN,seed-siri-apple-com.v.aaplimg.com
+DOMAIN,smoot-searchv2-aapse1c.v.aaplimg.com
+DOMAIN,cp4.cloudflare.com
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN-SUFFIX,smoot.apple.com
