@@ -30,6 +30,12 @@ policy_groups:
     flatten: true
     icon: https://avatars.githubusercontent.com/u/14957082?s=200&v=4
 - select:
+    name: tiktok
+    policies:
+    - 所有地区
+    flatten: true
+    icon: https://avatars.githubusercontent.com/u/14957082?s=200&v=4
+- select:
     name: 苹果
     policies:
     - 直连
@@ -110,6 +116,9 @@ rules:
 - rule_set:
     match: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/OpenAI/OpenAI.list
     policy: ChatGPT
+- rule_set:
+    match: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list
+    policy: tiktok
 - rule_set:
     match: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Apple/Apple.list
     policy: 苹果
