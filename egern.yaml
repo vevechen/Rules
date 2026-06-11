@@ -74,6 +74,7 @@ policy_groups:
     - 美国
     - 日本
     - 新加坡
+    - 香港
     icon: 😊
 - external:
     name: 所有订阅
